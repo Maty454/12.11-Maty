@@ -46,7 +46,7 @@ Prohlubte své znalosti a navštivte oficiální [Dokumentaci jazyka Python](htt
 
 ### 4.2 Obrázky
 Níže můžete vidět ilustrační ukázku loga nebo prostředí:
-![Logo Pythonu a vývojové prostředí](images/python-logo.png)[cite: 1]
+![Logo Pythonu a vývojové prostředí](images/obrazek.png)[cite: 1]
 
 ---
 
