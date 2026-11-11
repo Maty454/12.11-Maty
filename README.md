@@ -29,9 +29,9 @@ Při programování občas narazíme na situace, kdy si říkáme: *„Proč toh
 Zde je můj osobní checklist pro úspěšné dokončení každého programátorského projektu:
 
 * [x] Návrh architektury a struktury složek
-* [x] Napsání základní logiky programu a testů[cite: 1]
-* [ ] Vytvoření přehledné dokumentace (tento soubor `README.md`)[cite: 1]
-* [ ] Závěrečný kódový audit (code review) a nasazení[cite: 1]
+* [x] Napsání základní logiky programu a testů
+* [ ] Vytvoření přehledné dokumentace (tento soubor `README.md`)
+* [ ] Závěrečný kódový audit (code review) a nasazení
 
 1. Analýza problému a rozvržení funkcí.
 2. Samotná implementace kódu.
@@ -42,11 +42,11 @@ Zde je můj osobní checklist pro úspěšné dokončení každého programátor
 ## 4. Propojení světa: Odkazy a Obrázky
 
 ### 4.1 Odkazy
-Prohlubte své znalosti a navštivte oficiální [Dokumentaci jazyka Python](https://www.python.org/) nebo se podívejte na tutoriály na [Real Python](https://realpython.com/)[cite: 1].
+Prohlubte své znalosti a navštivte oficiální [Dokumentaci jazyka Python](https://www.python.org/) nebo se podívejte na tutoriály na [Real Python](https://realpython.com/)
 
 ### 4.2 Obrázky
 Níže můžete vidět ilustrační ukázku loga nebo prostředí:
-![Logo Pythonu a vývojové prostředí](images/obrazek.png)[cite: 1]
+![Logo Pythonu a vývojové prostředí](images/obrazek.png)
 
 ---
 
